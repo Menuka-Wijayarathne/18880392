@@ -1,1 +1,1 @@
-Logistic Regression Model for Churn Prediction
+Logistic Regression Model for Churn Prediction of fiber to home users.
